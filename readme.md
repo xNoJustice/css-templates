@@ -20,6 +20,10 @@
 
 <img src="https://github.com/xNoJustice/css-templates/blob/b0c99a5cc7cf2d56d9ca75301157f9e56470838e/user-dropdown/user-dropdown.gif" alt="Dropdown-Animation" />
 
+## Wavy Background 
+
+<img src="https://github.com/xNoJustice/css-templates/blob/efda059ee532bb0f956f6339f776efa7e1aaf964/wavy-background/wavy-background.gif" alt="Wavy-Background" />
+
 ## Wavy Landing Page
 
 <img src="https://github.com/xNoJustice/css-templates/blob/b0c99a5cc7cf2d56d9ca75301157f9e56470838e/wavy-landing-page/wavy-landing-page.gif" alt="Wavy-Landing-Page" />

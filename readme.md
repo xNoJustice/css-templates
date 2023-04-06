@@ -14,7 +14,7 @@
 
 ## Parallax Website
 
-<img src="" alt="Parallax-Website" />
+<img src="https://github.com/xNoJustice/css-templates/blob/9c67a3754ffbfed0d56e33d05b58239a55dc69a7/parallax-website/parallax-website.gif" alt="Parallax-Website" />
 
 ## User Dropdown
 

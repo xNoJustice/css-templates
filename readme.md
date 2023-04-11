@@ -1,5 +1,9 @@
 # Ready CSS Templates
 
+## Digital Clock
+
+<img src="https://github.com/xNoJustice/css-templates/blob/c398f6414a22c568b98dc680181f3a7fdf55126e/digital-clock/digital-clock.gif" alt="Digital-Clock" />
+
 ## Hover Cards
 
 <img src="https://github.com/xNoJustice/css-templates/blob/b0c99a5cc7cf2d56d9ca75301157f9e56470838e/hover-cards/hover-cards.gif" alt="Hover-Cards" />

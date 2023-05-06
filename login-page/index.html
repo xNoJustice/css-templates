@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login Page</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="login-card-container">
+      <div class="login-card">
+        <div class="login-card-logo">
+          <img src="./logo.png" alt="Logo" />
+        </div>
+        <div class="login-card-header">
+          <h1>Sign In</h1>
+          <div>Please login to use platform</div>
+        </div>
+        <form class="login-card-form">
+          <div class="form-item">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="34"
+              height="34"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path
+                d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"
+              ></path>
+              <polyline points="22,6 12,13 2,6"></polyline>
+            </svg>
+            <input
+              type="email"
+              placeholder="Enter your email"
+              name="email"
+              required
+              autofocus
+            />
+          </div>
+          <div class="form-item">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="34"
+              height="34"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+              <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+            </svg>
+            <input
+              type="password"
+              placeholder="Enter your password"
+              name="password"
+              required
+            />
+          </div>
+          <div class="form-item-other">
+            <div class="checkbox">
+              <input type="checkbox" name="rememberMe" id="rememberMe" />
+              <label for="rememberMe">Remember Me</label>
+            </div>
+          </div>
+          <button type="submit">Sign In</button>
+        </form>
+        <div class="login-card-footer">
+          Don't have an account? <a href="#">Create a free account</a>.
+        </div>
+      </div>
+      <div class="login-card-social">
+        <div class="login-card-platform">Other Sign-in Platforms</div>
+        <div class="login-card-social-btns">
+          <a href="#">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              stroke-width="2"
+              stroke="currentColor"
+              fill="none"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+              <path
+                d="M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3"
+              ></path>
+            </svg>
+          </a>
+          <a href="#">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              stroke-width="3"
+              stroke="currentColor"
+              fill="none"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+              <path d="M17.788 5.108a9 9 0 1 0 3.212 6.892h-8"></path>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

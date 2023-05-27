@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&:200,300,400,500,600,700,800,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+  min-width: 700px;
+  background: rgb(202, 201, 201);
+}
+.container {
+  width: 650px;
+  height: 400px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 5px solid rgb(244, 254, 255);
+}
+
+#lens {
+  position: absolute;
+  border: 2px solid grey;
+  border-radius: 50%;
+  overflow: hidden;
+  cursor: none;
+  box-shadow: inset 0 0 10px 2px grey;
+  filter: drop-shadow(0 0 2px grey);
+}
+
+#zoom img {
+  width: 650px;
+  height: 400px;
+}
+
+#lens > * {
+  cursor: none;
+}
+
+input[type="file"] {
+  width: 350px;
+  max-width: 100%;
+  color: #444;
+  padding: 5px;
+  background: #fff;
+  border-radius: 10px;
+  border: 1px solid #555;
+  margin-bottom: 20px;
+}
+
+input[type="file"]::file-selector-button {
+  margin-right: 20px;
+  border: none;
+  background: #084cdf;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.2s ease-in-out;
+  z-index: -1;
+}
+
+input[type="file"]::file-selector-button:hover {
+  background: #0d45a5;
+}

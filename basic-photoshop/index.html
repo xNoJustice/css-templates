@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Basic Photoshop</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="file">
+        <input
+          id="fileUpload"
+          type="file"
+          accept="image/jpeg, image/png, image/jpg"
+        /><img src="" alt="image" id="main-image" style="visibility: hidden" />
+        <canvas id="canvas"></canvas>
+        <button
+          type="button"
+          id="download-button"
+          style="visibility: hidden"
+          onclick="downloadImage()"
+        >
+          Download the Image
+        </button>
+      </div>
+      <div class="toolbox">
+        <label>
+          Blur
+          <input id="blur" max="20" min="0" step="1" type="range" value="0" />
+        </label>
+        <label>
+          Brightness
+          <input
+            id="brightness"
+            max="1"
+            min="0"
+            step="0.1"
+            type="range"
+            value="1"
+          />
+        </label>
+        <label>
+          Contrast
+          <input
+            id="contrast"
+            max="200"
+            min="0"
+            step="1"
+            type="range"
+            value="100"
+          />
+        </label>
+        <label>
+          Grayscale
+          <input
+            id="grayscale"
+            max="100"
+            min="0"
+            step="1"
+            type="range"
+            value="0"
+          />
+        </label>
+        <label>
+          Hue
+          <input id="hue" max="360" min="0" step="1" type="range" value="0" />
+        </label>
+        <label>
+          Invert
+          <input
+            id="invert"
+            max="100"
+            min="0"
+            step="1"
+            type="range"
+            value="0"
+          />
+        </label>
+        <label>
+          Opacity
+          <input
+            id="opacity"
+            max="100"
+            min="0"
+            step="1"
+            type="range"
+            value="100"
+          />
+        </label>
+        <label>
+          Saturate
+          <input
+            id="saturate"
+            max="200"
+            min="0"
+            step="1"
+            type="range"
+            value="100"
+          />
+        </label>
+        <label>
+          Sepia
+          <input id="sepia" max="100" min="0" step="1" type="range" value="0" />
+        </label>
+      </div>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>

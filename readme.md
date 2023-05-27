@@ -1,5 +1,13 @@
 # Ready CSS Templates
 
+## Basic Photoshop
+
+<img src="https://github.com/xNoJustice/css-templates/blob/6576d8b33de17d43d201fa8a01b95a5019c42e78/basic-photoshop/basic-photoshop.gif" alt="Basic Photoshop" />
+
+## Digital Pincode
+
+<img src="https://github.com/xNoJustice/css-templates/blob/6576d8b33de17d43d201fa8a01b95a5019c42e78/digit-pincode/digit-pincode.gif" alt="Digital Pincode" />
+
 ## Digital Clock
 
 <img src="https://github.com/xNoJustice/css-templates/blob/c398f6414a22c568b98dc680181f3a7fdf55126e/digital-clock/digital-clock.gif" alt="Digital-Clock" />
@@ -7,6 +15,10 @@
 ## Hover Cards
 
 <img src="https://github.com/xNoJustice/css-templates/blob/b0c99a5cc7cf2d56d9ca75301157f9e56470838e/hover-cards/hover-cards.gif" alt="Hover-Cards" />
+
+## Image Zoom
+
+<img src="https://github.com/xNoJustice/css-templates/blob/6576d8b33de17d43d201fa8a01b95a5019c42e78/image-zoom/image-zoom.gif" alt="Image Zoom" />
 
 ## Login Page
 

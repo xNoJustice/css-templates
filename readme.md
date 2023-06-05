@@ -48,6 +48,10 @@
 
 <img src="https://github.com/xNoJustice/css-templates/blob/9f0e2b287695bcb408362860aec656923af42ee8/ring-loading/ring-loading.gif" alt="Ring Loading" />
 
+## Social Media
+
+<img src="https://github.com/xNoJustice/css-templates/blob/bad72bfa925a13f9b692ca8a8b05ee9b508dcc28/social-media/social-media.gif" alt="Social Media" />
+
 ## Typing Effect
 
 <img src="https://github.com/xNoJustice/css-templates/blob/4225fdff14ee41ce5f86037baa87f810f7cfef25/typing-effect/typing-effect.gif" alt="Typing Effect" />

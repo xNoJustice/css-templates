@@ -36,6 +36,10 @@
 
 <img src="https://github.com/xNoJustice/css-templates/blob/9c67a3754ffbfed0d56e33d05b58239a55dc69a7/parallax-website/parallax-website.gif" alt="Parallax-Website" />
 
+## Ring Loading
+
+<img src="https://github.com/xNoJustice/css-templates/blob/9f0e2b287695bcb408362860aec656923af42ee8/ring-loading/ring-loading.gif" alt="Ring Loading" />
+
 ## User Dropdown
 
 <img src="https://github.com/xNoJustice/css-templates/blob/b0c99a5cc7cf2d56d9ca75301157f9e56470838e/user-dropdown/user-dropdown.gif" alt="Dropdown-Animation" />

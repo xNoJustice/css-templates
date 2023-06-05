@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: rgb(15 23 42);
+  font-family: sans-serif;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.wrapper .icon-container {
+  position: relative;
+  height: 90px;
+  width: 90px;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 10px;
+  border-radius: 30px;
+  outline: #fff solid 1px;
+  box-shadow: 0 5px 15px -5px rgb(0, 0, 0 / 10%);
+  cursor: pointer;
+  font-size: 36px;
+  text-decoration: none;
+  opacity: 0.99;
+  overflow: hidden;
+}
+
+.wrapper .icon-container.facebook {
+  color: #3b5998;
+}
+
+.wrapper .icon-container.twitter {
+  color: #0077b5;
+}
+
+.wrapper .icon-container.github {
+  color: #1b1f23;
+}
+
+.wrapper .icon-container.linkedin {
+  color: #5da9dd;
+}
+
+.wrapper .icon-container.youtube {
+  color: #fe0108;
+}
+
+.wrapper .icon-container::before {
+  content: "";
+  width: 120%;
+  height: 120%;
+  position: absolute;
+  top: 90%;
+  left: -110%;
+  transform: rotate(45deg);
+  transition: all 0.35s;
+  transition-timing-function: cubic-bezier(0.31, -0.105, 0.43, 1.59);
+  z-index: 1;
+}
+
+.wrapper .icon-container svg {
+  transform: scale(0.8);
+  transition: all 0.35s;
+  transition-timing-function: cubic-bezier(0.31, -0.105, 0.43, 1.59);
+  z-index: 2;
+}
+
+.wrapper .icon-container:hover svg {
+  color: #fff;
+  transform: scale(1);
+}
+
+.wrapper .icon-container:hover::before {
+  top: -10%;
+  left: -10%;
+}
+
+.wrapper .icon-container.facebook:hover::before {
+  background-color: #3b5998;
+}
+
+.wrapper .icon-container.twitter:hover::before {
+  background-color: #0077b5;
+}
+
+.wrapper .icon-container.github:hover::before {
+  background-color: #1b1f23;
+}
+
+.wrapper .icon-container.linkedin:hover::before {
+  background-color: #5da9dd;
+}
+
+.wrapper .icon-container.youtube:hover::before {
+  background-color: #fe0108;
+}

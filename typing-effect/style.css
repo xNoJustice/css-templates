@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background: rgb(15 23 42);
+  font-family: monospace;
+}
+
+.wrapper {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.typing {
+  width: 18ch;
+  color: #fff;
+  animation: typing 2s steps(16), blink 0.5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  font-size: 2rem;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}

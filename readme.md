@@ -16,6 +16,10 @@
 
 <img src="https://github.com/xNoJustice/css-templates/blob/b0c99a5cc7cf2d56d9ca75301157f9e56470838e/hover-cards/hover-cards.gif" alt="Hover-Cards" />
 
+## Hover Cards 2
+
+<img src="https://github.com/xNoJustice/css-templates/blob/666652feb4eb0632d2e1aaf1aadccc83ed488892/hover-cards2/hover-cards2.gif" alt="Hover-Cards 2" />
+
 ## Image Zoom
 
 <img src="https://github.com/xNoJustice/css-templates/blob/6576d8b33de17d43d201fa8a01b95a5019c42e78/image-zoom/image-zoom.gif" alt="Image Zoom" />

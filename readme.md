@@ -44,6 +44,10 @@
 
 <img src="https://github.com/xNoJustice/css-templates/blob/9f0e2b287695bcb408362860aec656923af42ee8/ring-loading/ring-loading.gif" alt="Ring Loading" />
 
+## Typing Effect
+
+<img src="https://github.com/xNoJustice/css-templates/blob/4225fdff14ee41ce5f86037baa87f810f7cfef25/typing-effect/typing-effect.gif" alt="Typing Effect" />
+
 ## User Dropdown
 
 <img src="https://github.com/xNoJustice/css-templates/blob/b0c99a5cc7cf2d56d9ca75301157f9e56470838e/user-dropdown/user-dropdown.gif" alt="Dropdown-Animation" />

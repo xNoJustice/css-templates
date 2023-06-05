@@ -18,7 +18,11 @@
 
 ## Hover Cards 2
 
-<img src="https://github.com/xNoJustice/css-templates/blob/666652feb4eb0632d2e1aaf1aadccc83ed488892/hover-cards2/hover-cards2.gif" alt="Hover-Cards 2" />
+<img src="https://github.com/xNoJustice/css-templates/blob/666652feb4eb0632d2e1aaf1aadccc83ed488892/hover-cards2/hover-cards2.gif" alt="Hover-Cards2" />
+
+## Hover Glow
+
+<img src="https://github.com/xNoJustice/css-templates/blob/2b3f72def182319d7b6066b556050b39fa363a93/hover-glow/hover-glow.gif" alt="Hover-Glow" />
 
 ## Image Zoom
 

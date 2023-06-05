@@ -4,6 +4,10 @@
 
 <img src="https://github.com/xNoJustice/css-templates/blob/6576d8b33de17d43d201fa8a01b95a5019c42e78/basic-photoshop/basic-photoshop.gif" alt="Basic Photoshop" />
 
+## Checklist
+
+<img src="https://github.com/xNoJustice/css-templates/blob/ca3937a9388a74ba2cce6df479a9d2f52f860572/checklist/checklist.gif" alt="Checklist" />
+
 ## Digital Pincode
 
 <img src="https://github.com/xNoJustice/css-templates/blob/6576d8b33de17d43d201fa8a01b95a5019c42e78/digit-pincode/digit-pincode.gif" alt="Digital Pincode" />

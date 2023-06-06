@@ -1,5 +1,9 @@
 # Ready CSS Templates
 
+## Ball Game
+
+<img src="https://github.com/xNoJustice/css-templates/blob/327bc60e384d382d27f9bb31cfe902c8140da31a/ball-game/ball-game.gif" alt="Ball Game" />
+
 ## Basic Photoshop
 
 <img src="https://github.com/xNoJustice/css-templates/blob/6576d8b33de17d43d201fa8a01b95a5019c42e78/basic-photoshop/basic-photoshop.gif" alt="Basic Photoshop" />

@@ -58,7 +58,7 @@
 
 ## Social Media
 
-<img src="https://github.com/xNoJustice/css-templates/blob/bad72bfa925a13f9b692ca8a8b05ee9b508dcc28/social-media/social-media.gif" alt="Social Media" />
+<img src="https://github.com/xNoJustice/css-templates/blob/9d65f9fc109429d25f07d2befc5d059eee45bc28/social-media/social-media-icons.gif" alt="Social Media" />
 
 ## Sortable List
 

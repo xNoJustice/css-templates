@@ -36,6 +36,10 @@
 
 <img src="https://github.com/xNoJustice/css-templates/blob/6576d8b33de17d43d201fa8a01b95a5019c42e78/image-zoom/image-zoom.gif" alt="Image Zoom" />
 
+## Interactive Card
+
+<img src="https://github.com/xNoJustice/css-templates/blob/8ac15f4b7bca0876c235c2327dec96c8f52aa444/interactive-card/interactive-card.gif" alt="Interactive Card" />
+
 ## Login Page
 
 <img src="https://github.com/xNoJustice/css-templates/blob/2b4d3a98af547b1e678f66c6bba6c99b2dc988cd/login-page/login-page.gif" alt="Login Page" />

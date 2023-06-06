@@ -60,6 +60,10 @@
 
 <img src="https://github.com/xNoJustice/css-templates/blob/bad72bfa925a13f9b692ca8a8b05ee9b508dcc28/social-media/social-media.gif" alt="Social Media" />
 
+## Sortable List
+
+<img src="https://github.com/xNoJustice/css-templates/blob/6c7c018af98d11535f5a96b2a5c9a6b7c699f351/sortable-list/sortable-list.gif" alt="Sortable List" />
+
 ## Typing Effect
 
 <img src="https://github.com/xNoJustice/css-templates/blob/4225fdff14ee41ce5f86037baa87f810f7cfef25/typing-effect/typing-effect.gif" alt="Typing Effect" />

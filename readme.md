@@ -56,6 +56,10 @@
 
 <img src="https://github.com/xNoJustice/css-templates/blob/9c67a3754ffbfed0d56e33d05b58239a55dc69a7/parallax-website/parallax-website.gif" alt="Parallax-Website" />
 
+## QR Code
+
+<img src="https://github.com/xNoJustice/css-templates/blob/b1ac0312ea32ea98dc50f7604bf12751295e9f22/qr-code/qr-code.gif" alt="QR Code" />
+
 ## Ring Loading
 
 <img src="https://github.com/xNoJustice/css-templates/blob/9f0e2b287695bcb408362860aec656923af42ee8/ring-loading/ring-loading.gif" alt="Ring Loading" />

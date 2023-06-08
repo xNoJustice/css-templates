@@ -1,5 +1,12 @@
 # Ready CSS Templates
 
+## Animated Tab Bar
+
+<img src="https://github.com/xNoJustice/css-templates/blob/e80f355711b57833dc98d47afd244576c1466aa9/animated-tab-bar/animated-tab-bar.gif" alt="Animated Tab Bar" />
+
+## Ball Game
+
+<img src="https://github.com/xNoJustice/css-templates/blob/327bc60e384d382d27f9bb31cfe902c8140da31a/ball-game/ball-game.gif" alt="Ball Game" />
 ## Ball Game
 
 <img src="https://github.com/xNoJustice/css-templates/blob/327bc60e384d382d27f9bb31cfe902c8140da31a/ball-game/ball-game.gif" alt="Ball Game" />

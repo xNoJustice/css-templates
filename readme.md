@@ -96,6 +96,10 @@
 
 <img src="https://github.com/xNoJustice/css-templates/blob/01785ff009dc3f6bcd5a39cce7a1cf25c6192774/social-media/social-media.gif" alt="Social Media" />
 
+## Social Media 2
+
+<img src="https://github.com/xNoJustice/css-templates/blob/5426cdc4a7f79c0853b89499b737d3b8d9ae96a4/social-media2/social-media2.gif" alt="Social Media 2" />
+
 ## Sortable List
 
 <img src="https://github.com/xNoJustice/css-templates/blob/6c7c018af98d11535f5a96b2a5c9a6b7c699f351/sortable-list/sortable-list.gif" alt="Sortable List" />

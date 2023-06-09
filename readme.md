@@ -4,6 +4,10 @@
 
 <img src="https://github.com/xNoJustice/css-templates/blob/e80f355711b57833dc98d47afd244576c1466aa9/animated-tab-bar/animated-tab-bar.gif" alt="Animated Tab Bar" />
 
+## Animated Tab Bar 2
+
+<img src="https://github.com/xNoJustice/css-templates/blob/9181804c245e8455523499b7370c9e7f20f80b32/animated-tab-bar2/animated-tab-bar2.gif" alt="Animated Tab Bar 2" />
+
 ## Ball Game
 
 <img src="https://github.com/xNoJustice/css-templates/blob/327bc60e384d382d27f9bb31cfe902c8140da31a/ball-game/ball-game.gif" alt="Ball Game" />

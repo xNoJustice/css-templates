@@ -32,6 +32,10 @@
 
 <img src="https://github.com/xNoJustice/css-templates/blob/c398f6414a22c568b98dc680181f3a7fdf55126e/digital-clock/digital-clock.gif" alt="Digital Clock" />
 
+## Filter Cards
+
+<img src="https://github.com/xNoJustice/css-templates/blob/c17177df9e70d82be4043125a435c756f16b22e2/filter-cards/filter-cards.gif" alt="Filter Cards" />
+
 ## Hover Cards
 
 <img src="https://github.com/xNoJustice/css-templates/blob/b0c99a5cc7cf2d56d9ca75301157f9e56470838e/hover-cards/hover-cards.gif" alt="Hover Cards" />
@@ -82,7 +86,7 @@
 
 ## Social Media
 
-<img src="https://github.com/xNoJustice/css-templates/blob/9d65f9fc109429d25f07d2befc5d059eee45bc28/social-media/social-media-icons.gif" alt="Social Media" />
+<img src="https://github.com/xNoJustice/css-templates/blob/01785ff009dc3f6bcd5a39cce7a1cf25c6192774/social-media/social-media.gif" alt="Social Media" />
 
 ## Sortable List
 

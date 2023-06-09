@@ -36,6 +36,10 @@
 
 <img src="https://github.com/xNoJustice/css-templates/blob/c17177df9e70d82be4043125a435c756f16b22e2/filter-cards/filter-cards.gif" alt="Filter Cards" />
 
+## Goey Footer
+
+<img src="https://github.com/xNoJustice/css-templates/blob/9f8fd319b1ec245e2f29dcd43a5e0e951d9ebcbf/goey-footer/goey-footer.gif" alt="Goey Footer" />
+
 ## Hover Cards
 
 <img src="https://github.com/xNoJustice/css-templates/blob/b0c99a5cc7cf2d56d9ca75301157f9e56470838e/hover-cards/hover-cards.gif" alt="Hover Cards" />

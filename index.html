@@ -3,8 +3,13 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Templates</title>
+    <meta
+      name="description"
+      content="Discover stylish, responsive CSS templates for your web projects. Elevate your design effortlessly."
+    />
+    <title>CSS Templates</title>
     <style>
+      html,
       body {
         background-color: rgb(15 23 42);
       }
@@ -13,8 +18,10 @@
         grid-template-columns: auto auto auto auto auto;
         justify-content: center;
         align-items: center;
-        gap: 40px;
         padding: 20px;
+      }
+      #templates div {
+        margin: 10px;
       }
       h1 {
         display: flex;
@@ -25,6 +32,8 @@
       }
       a {
         display: flex;
+        justify-content: center;
+        align-items: center;
         flex-direction: column;
         text-decoration: none;
         color: #fff;
@@ -34,12 +43,12 @@
       }
       span {
         margin-bottom: 5px;
+        text-align: center;
       }
       a:hover {
         transform: scale(1.1);
       }
       img {
-        float: left;
         width: 250px;
         height: 250px;
         background-size: cover;

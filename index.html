@@ -6,13 +6,22 @@
     <title>Templates</title>
     <style>
       body {
+        background-color: rgb(15 23 42);
+      }
+      #templates {
         display: grid;
         grid-template-columns: auto auto auto auto auto;
         justify-content: center;
         align-items: center;
         gap: 40px;
         padding: 20px;
-        background-color: rgb(15 23 42);
+      }
+      h1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        font-size: 40px;
       }
       a {
         display: flex;
@@ -53,6 +62,8 @@
     </style>
   </head>
   <body>
+    <h1>CSS Templates</h1>
+    <div id="templates"></div>
     <script>
       const templates = [
         {
@@ -178,6 +189,7 @@
       ];
 
       templates.map((template) => {
+        const templates = document.getElementById("templates");
         const newDiv = document.createElement("div");
         const newA = document.createElement("a");
         const newSpan = document.createElement("span");
@@ -193,7 +205,7 @@
         newA.appendChild(newImg);
         newDiv.appendChild(newA);
 
-        document.body.appendChild(newDiv);
+        templates.appendChild(newDiv);
       });
     </script>
   </body>
